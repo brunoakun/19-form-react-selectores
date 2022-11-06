@@ -6,7 +6,7 @@ https://www.udemy.com/course/angular-fernando-herrera/learn/lecture/24210364#ove
 ## Crear un módulo con routing
  ng g m paises --routing
 
- ## LazzyLoad del mñodulo paises
+ ## LazzyLoad del módulo paises
 
 
 ## switchMap
